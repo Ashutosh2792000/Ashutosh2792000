@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="centre" alt="GIF" src="https://miro.medium.com/max/1280/0*-u0b7K0Q6zfBcQqT.gif" />
 
-![image](https://github.com/Ashutosh2792000/Ashutoshraj2792000/assets/122087921/1b5105e2-ae27-4d43-aa14-0aff4df1de4a)
 
 - 🔭 I’m currently working on **CODE DARSHAN**
 
